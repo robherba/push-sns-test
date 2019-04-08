@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "170550070607",
+    "firebase_url": "https://pushreactnativetest-0324.firebaseio.com",
+    "project_id": "pushreactnativetest-0324",
+    "storage_bucket": "pushreactnativetest-0324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170550070607:android:efdb00ddf5775410",
+        "android_client_info": {
+          "package_name": "com.pushsnstest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWf2sGtIubgakfEUR7BYirJcZArLqK2WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170550070607-496blf1svfk3ern89f1i7frsmtjjj6s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
